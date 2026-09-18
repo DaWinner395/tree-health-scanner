@@ -94,11 +94,3 @@ The device uses relative variance (variance ÷ average temperature) as the healt
 **Button**
 - One leg → Pin 13 (GPIO 27)
 - Other leg → Pin 9 (Ground)
-
----
-
-## Project Status
-
-This is a working prototype. Next steps include designing and 3D printing a pistol-grip enclosure, testing on a wider variety of trees outdoors to calibrate the thresholds, and exploring a machine learning approach for classifying health based on collected thermal data.
-
-Built for the Project Invent program and the Hack Club Stardance Challenge.
