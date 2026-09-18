@@ -1,5 +1,11 @@
 # Dead Tree Detection Scanner
 
+## Demo Video
+
+https://github.com/user-attachments/assets/f88f91da-985d-4a1d-8331-5d500184c699
+
+---
+
 A handheld device that identifies tree species using a camera and determines whether a tree is healthy or dead using thermal imaging. Built with a Raspberry Pi 5, an Arducam IMX708 12MP camera, and an MLX90640 infrared thermal array sensor.
 
 **[Try the Live Demo →](https://dawinner395.github.io/tree-health-scanner/)**
