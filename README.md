@@ -4,7 +4,6 @@
 
 https://github.com/user-attachments/assets/f88f91da-985d-4a1d-8331-5d500184c699
 
-<video src="https://github.com/user-attachments/assets/f88f91da-985d-4a1d-8331-5d500184c699" controls width="600"></video>
 
 ---
 
