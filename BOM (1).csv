@@ -1,0 +1,9 @@
+Name,Quantity,Unit Price (USD),Shipping (USD),Total (USD),Purchase Link,Notes
+Raspberry Pi 5 8GB,1,80.00,0.00,80.00,https://www.raspberrypi.com/products/raspberry-pi-5/,Main compute unit
+Arducam IMX708 12MP Autofocus Camera,1,45.00,0.00,45.00,https://www.arducam.com/product/arducam-12mp-imx708-camera-module-with-m12-lens-for-raspberry-pi/,CSI ribbon cable - use golden cable only for Pi 5
+MLX90640 32x24 IR Thermal Camera,1,39.95,3.99,43.94,https://www.adafruit.com/product/4407,I2C address 0x33
+1602A LCD with I2C Backpack,1,8.99,0.00,8.99,https://www.amazon.com/dp/B01GPUMP9C,I2C address 0x27
+Tactile Push Button,1,0.50,0.00,0.50,https://www.adafruit.com/product/367,GPIO 27 Pin 13
+Female-to-Female Jumper Wires,1,3.95,0.00,3.95,https://www.adafruit.com/product/266,For connecting components to GPIO
+MicroSD Card 32GB+,1,9.99,0.00,9.99,https://www.amazon.com/dp/B08TJTG1YS,For Raspberry Pi OS
+INIU Portable Charger 45W 10000mAh,1,22.98,0.00,22.98,https://www.amazon.com/INIU-Portable-Slimmest-10000mAh-Charging/dp/B0DD3HKB8D/,USB-C power bank for portable use
