@@ -42,6 +42,8 @@ When you press the button on the device, it runs a three-step scan:
 | Tactile button | GPIO 27 (Pin 13) to trigger a scan |
 | INIU 45W 10000mAh Power Bank | Portable USB-C power supply |
 
+<img width="856" height="531" alt="Screenshot 2026-10-22 174442" src="https://github.com/user-attachments/assets/d2b1c748-8e82-414d-ad10-8f856e7ce473" />
+
 ---
 
 ## Software
